@@ -13,7 +13,7 @@ python fracture_detection.py
 
 ---
 
-## Cấu hình huấn luyện
+## Training Config
 
 | **Tham số** | **Giá trị sử dụng** | **Mô tả** |
 |--------------|----------------------|------------|
@@ -34,7 +34,7 @@ python fracture_detection.py
 
 ---
 
-##  Môi trường huấn luyện
+##  Training Environment
 - **CPU:** Intel Core i3-1005G1  
 - **RAM:** 8GB  
 - **OS:** Windows 11  
@@ -46,7 +46,7 @@ python fracture_detection.py
 
 ---
 
-##  Cấu hình huấn luyện chi tiết
+##  Detailed training configuration
 - **Epochs:** 100 (training dừng tại epoch 70 do early stopping)  
 - **Batch size:** 32  
 - **Learning rate:** 0.005  
@@ -55,8 +55,8 @@ python fracture_detection.py
 
 ---
 
-## Kết quả  
+## Result 
  
 ```markdown
-![Train and Val loss](train_val_loss)
-![Metrics over Epoch](metrics)
+![Train and Val loss](train_val_loss.png)
+![Metrics over Epoch](metrics.png)
