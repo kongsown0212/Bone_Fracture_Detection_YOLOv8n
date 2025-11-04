@@ -67,4 +67,4 @@ python fracture_detection.py
 👨‍💻 Author Son Truong  
 Embedded Systems & IoT Developer  
 Contact info: [truongcongsonbh@gmail.com]  
-Project: Smart Lighting System using RD03_v2 and MQTT on Ai-Thinker WB2  
+Project: Fracture Detection using YOLOv8n  
