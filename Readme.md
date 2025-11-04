@@ -55,7 +55,9 @@ python fracture_detection.py
 - **Augmentation:** RandAugment, FlipLR, Scale, Translate  
 
 ---
-
+## Predict
+![Predict_picture](predict_result.png)
+---
 ## Result 
  
 
