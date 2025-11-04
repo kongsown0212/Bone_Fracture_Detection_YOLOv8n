@@ -62,4 +62,9 @@ python fracture_detection.py
  
 
 ![Train and Val loss](train_val_loss.png)
-![Metrics over Epoch](metrics.png)
+![Metrics over Epoch](metrics.png)  
+---
+👨‍💻 Author Son Truong  
+Embedded Systems & IoT Developer  
+Contact info: [truongcongsonbh@gmail.com]  
+Project: Smart Lighting System using RD03_v2 and MQTT on Ai-Thinker WB2  
