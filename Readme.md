@@ -57,6 +57,6 @@ python fracture_detection.py
 
 ## Result 
  
-```markdown
+
 ![Train and Val loss](train_val_loss.png)
 ![Metrics over Epoch](metrics.png)
